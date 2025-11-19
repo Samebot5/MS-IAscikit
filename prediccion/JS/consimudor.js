@@ -22,4 +22,3 @@ async function verificar() {
     // Imprime la respuesta en la consola del navegador
     console.log(json);
 }
-

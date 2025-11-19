@@ -32,4 +32,3 @@ def predecir(request):
         "reabastecer": int(pred),  # Convertir la predicción (0 o 1) a entero
         "mensaje": "Sí debes reabastecer" if pred == 1 else "No es necesario"
     })
-

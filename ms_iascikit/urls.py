@@ -10,4 +10,3 @@ urlpatterns = [
     # Cuando alguien visite /api/prediccion/ se ejecutará la función predecir
     path('api/prediccion/', predecir),
 ]
-
